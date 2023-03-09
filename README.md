@@ -24,6 +24,8 @@ Convert https://inftab.com/ backup file to https://web.wetab.link/ format.
 
 将 https://inftab.com/ 的备份文件转换为 https://web.wetab.link/的格式。
 
+### 怎么用
+
 1. 将https://inftab.com/的备份文件重命名为infinityBackup.infinity。
 2. 将https://web.wetab.link/的备份文件重命名为wetab.data。
 3. 将main.py文件和以上两个文件放到一起。
