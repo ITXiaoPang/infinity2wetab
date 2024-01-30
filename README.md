@@ -22,7 +22,7 @@ Convert https://inftab.com/ backup file to https://web.wetab.link/ format.
 
 ### 这个程序能干啥
 
-将 https://inftab.com/ 的备份文件转换为 https://web.wetab.link/的格式。
+将 https://inftab.com/ 的备份文件转换为 https://web.wetab.link/ 的格式。
 
 ### 怎么用
 
